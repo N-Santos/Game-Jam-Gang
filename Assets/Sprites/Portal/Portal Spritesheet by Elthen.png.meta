@@ -1,0 +1,1577 @@
+fileFormatVersion: 2
+guid: 1c51ee77ff6abb64d82f309fc99c7c16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3448424283281804534
+    second: Portal Spritesheet by Elthen_0
+  - first:
+      213: 7734474807080705063
+    second: Portal Spritesheet by Elthen_1
+  - first:
+      213: 4681088335454235519
+    second: Portal Spritesheet by Elthen_2
+  - first:
+      213: -1094378341863556729
+    second: Portal Spritesheet by Elthen_3
+  - first:
+      213: -1755074407319522006
+    second: Portal Spritesheet by Elthen_4
+  - first:
+      213: 358722059230829198
+    second: Portal Spritesheet by Elthen_5
+  - first:
+      213: 8927425857388618004
+    second: Portal Spritesheet by Elthen_6
+  - first:
+      213: 9012579987059413122
+    second: Portal Spritesheet by Elthen_7
+  - first:
+      213: 5731186670022508706
+    second: Portal Spritesheet by Elthen_8
+  - first:
+      213: -4468691802651599176
+    second: Portal Spritesheet by Elthen_9
+  - first:
+      213: -1259388417760886413
+    second: Portal Spritesheet by Elthen_10
+  - first:
+      213: 8214669876003758107
+    second: Portal Spritesheet by Elthen_11
+  - first:
+      213: -2385079064806650982
+    second: Portal Spritesheet by Elthen_12
+  - first:
+      213: 6524616058408516709
+    second: Portal Spritesheet by Elthen_13
+  - first:
+      213: -5729918522314240438
+    second: Portal Spritesheet by Elthen_14
+  - first:
+      213: 4863817794826191782
+    second: Portal Spritesheet by Elthen_15
+  - first:
+      213: 853770781903436708
+    second: Portal Spritesheet by Elthen_16
+  - first:
+      213: -1228412561310897268
+    second: Portal Spritesheet by Elthen_17
+  - first:
+      213: -6300777059947657309
+    second: Portal Spritesheet by Elthen_18
+  - first:
+      213: 2778525656413720761
+    second: Portal Spritesheet by Elthen_19
+  - first:
+      213: -7963090162483263570
+    second: Portal Spritesheet by Elthen_20
+  - first:
+      213: 6315656919442617388
+    second: Portal Spritesheet by Elthen_21
+  - first:
+      213: 6787349231831671219
+    second: Portal Spritesheet by Elthen_22
+  - first:
+      213: -5070006023174646356
+    second: Portal Spritesheet by Elthen_23
+  - first:
+      213: -7421580780075313899
+    second: Portal Spritesheet by Elthen_24
+  - first:
+      213: 6604648795296637159
+    second: Portal Spritesheet by Elthen_25
+  - first:
+      213: -7527090215784252959
+    second: Portal Spritesheet by Elthen_26
+  - first:
+      213: 44086851360056684
+    second: Portal Spritesheet by Elthen_27
+  - first:
+      213: 179591603262244813
+    second: Portal Spritesheet by Elthen_28
+  - first:
+      213: -7691764226378185050
+    second: Portal Spritesheet by Elthen_29
+  - first:
+      213: 2260948970859916498
+    second: Portal Spritesheet by Elthen_30
+  - first:
+      213: 7795407473763329895
+    second: Portal Spritesheet by Elthen_31
+  - first:
+      213: -7061638771302035660
+    second: Portal Spritesheet by Elthen_32
+  - first:
+      213: -6912307259373836027
+    second: Portal Spritesheet by Elthen_33
+  - first:
+      213: 232357898547537052
+    second: Portal Spritesheet by Elthen_34
+  - first:
+      213: -5756004236939849239
+    second: Portal Spritesheet by Elthen_35
+  - first:
+      213: -2029325078573938396
+    second: Portal Spritesheet by Elthen_36
+  - first:
+      213: -249505076012017905
+    second: Portal Spritesheet by Elthen_37
+  - first:
+      213: 3406454335075194998
+    second: Portal Spritesheet by Elthen_38
+  - first:
+      213: 4926878365700475920
+    second: Portal Spritesheet by Elthen_39
+  - first:
+      213: 6003528893843271912
+    second: Portal Spritesheet by Elthen_40
+  - first:
+      213: -3794875740905995928
+    second: Portal Spritesheet by Elthen_41
+  - first:
+      213: 7845498280178997617
+    second: Portal Spritesheet by Elthen_42
+  - first:
+      213: 1705128429711131658
+    second: Portal Spritesheet by Elthen_43
+  - first:
+      213: 1536894669575578147
+    second: Portal Spritesheet by Elthen_44
+  - first:
+      213: 4227906226037739211
+    second: Portal Spritesheet by Elthen_45
+  - first:
+      213: -5097866450504994055
+    second: Portal Spritesheet by Elthen_46
+  - first:
+      213: 3222745323276438400
+    second: Portal Spritesheet by Elthen_47
+  - first:
+      213: 308606014704655061
+    second: Portal Spritesheet by Elthen_48
+  - first:
+      213: -201995663991984595
+    second: Portal Spritesheet by Elthen_49
+  - first:
+      213: 3679729938626140683
+    second: Portal Spritesheet by Elthen_50
+  - first:
+      213: -4814611077791747192
+    second: Portal Spritesheet by Elthen_51
+  - first:
+      213: -7639443094796748004
+    second: Portal Spritesheet by Elthen_52
+  - first:
+      213: -4645573196543513466
+    second: Portal Spritesheet by Elthen_53
+  - first:
+      213: 6747179628391615875
+    second: Portal Spritesheet by Elthen_54
+  - first:
+      213: -3117371323713451913
+    second: Portal Spritesheet by Elthen_55
+  - first:
+      213: -9213486821897221963
+    second: Portal Spritesheet by Elthen_56
+  - first:
+      213: 3087754443841451930
+    second: Portal Spritesheet by Elthen_57
+  - first:
+      213: 1293839911355977329
+    second: Portal Spritesheet by Elthen_58
+  - first:
+      213: 8240103951517019080
+    second: Portal Spritesheet by Elthen_59
+  - first:
+      213: 4942311738319793648
+    second: Portal Spritesheet by Elthen_60
+  - first:
+      213: 1033831017250387532
+    second: Portal Spritesheet by Elthen_61
+  - first:
+      213: 6760532331720776544
+    second: Portal Spritesheet by Elthen_62
+  - first:
+      213: -5743275056101643163
+    second: Portal Spritesheet by Elthen_63
+  - first:
+      213: 7072213053832888163
+    second: Portal Spritesheet by Elthen_64
+  - first:
+      213: -7867380086616803136
+    second: Portal Spritesheet by Elthen_65
+  - first:
+      213: 5724380039300478952
+    second: Portal Spritesheet by Elthen_66
+  - first:
+      213: 3594808208095875356
+    second: Portal Spritesheet by Elthen_67
+  - first:
+      213: -418743227341881025
+    second: Portal Spritesheet by Elthen_68
+  - first:
+      213: 7663127506255393970
+    second: Portal Spritesheet by Elthen_69
+  - first:
+      213: -6491455001964037994
+    second: Portal Spritesheet by Elthen_70
+  - first:
+      213: -9184978460140931115
+    second: Portal Spritesheet by Elthen_71
+  - first:
+      213: 7544646313989877915
+    second: Portal Spritesheet by Elthen_72
+  - first:
+      213: 7252397648573377259
+    second: Portal Spritesheet by Elthen_73
+  - first:
+      213: 3500818339285618654
+    second: Portal Spritesheet by Elthen_74
+  - first:
+      213: 1335640349940521273
+    second: Portal Spritesheet by Elthen_75
+  - first:
+      213: 3799371620325200744
+    second: Portal Spritesheet by Elthen_76
+  - first:
+      213: 8365006468474330243
+    second: Portal Spritesheet by Elthen_77
+  - first:
+      213: -1078518284428398095
+    second: Portal Spritesheet by Elthen_78
+  - first:
+      213: 7116684245167169415
+    second: Portal Spritesheet by Elthen_79
+  - first:
+      213: -1093593341052036939
+    second: Portal Spritesheet by Elthen_80
+  - first:
+      213: -7401710414485848854
+    second: Portal Spritesheet by Elthen_81
+  - first:
+      213: 875000017248491313
+    second: Portal Spritesheet by Elthen_82
+  - first:
+      213: 8606456274476730722
+    second: Portal Spritesheet by Elthen_83
+  - first:
+      213: 6395681124201369902
+    second: Portal Spritesheet by Elthen_84
+  - first:
+      213: 469777767244111529
+    second: Portal Spritesheet by Elthen_85
+  - first:
+      213: -1841501802326473717
+    second: Portal Spritesheet by Elthen_86
+  - first:
+      213: 5029015471556524497
+    second: Portal Spritesheet by Elthen_87
+  - first:
+      213: -949274871044259252
+    second: Portal Spritesheet by Elthen_88
+  - first:
+      213: -6592111377999833398
+    second: Portal Spritesheet by Elthen_89
+  - first:
+      213: -1124990334934817545
+    second: Portal Spritesheet by Elthen_90
+  - first:
+      213: 3061829735738406986
+    second: Portal Spritesheet by Elthen_91
+  - first:
+      213: -4297473893381940577
+    second: Portal Spritesheet by Elthen_92
+  - first:
+      213: -5904714835784245289
+    second: Portal Spritesheet by Elthen_93
+  - first:
+      213: -3440702762307603645
+    second: Portal Spritesheet by Elthen_94
+  - first:
+      213: 7739261873211359564
+    second: Portal Spritesheet by Elthen_95
+  - first:
+      213: 8450550712551407573
+    second: Portal Spritesheet by Elthen_96
+  - first:
+      213: 4018875749965101403
+    second: Portal Spritesheet by Elthen_97
+  - first:
+      213: -6300514469065098368
+    second: Portal Spritesheet by Elthen_98
+  - first:
+      213: -981898372352788814
+    second: Portal Spritesheet by Elthen_99
+  - first:
+      213: 5818567282296812087
+    second: Portal Spritesheet by Elthen_100
+  - first:
+      213: 132294001304414308
+    second: Portal Spritesheet by Elthen_101
+  - first:
+      213: -5772224577347688975
+    second: Portal Spritesheet by Elthen_102
+  - first:
+      213: -2902835405634498124
+    second: Portal Spritesheet by Elthen_103
+  - first:
+      213: 7559858860109838837
+    second: Portal Spritesheet by Elthen_104
+  - first:
+      213: -7946304662785800559
+    second: Portal Spritesheet by Elthen_105
+  - first:
+      213: -3672753837248095792
+    second: Portal Spritesheet by Elthen_106
+  - first:
+      213: -2176002655919763804
+    second: Portal Spritesheet by Elthen_107
+  - first:
+      213: 8701504012572995192
+    second: Portal Spritesheet by Elthen_108
+  - first:
+      213: 1607411621000443347
+    second: Portal Spritesheet by Elthen_109
+  - first:
+      213: -6885123365349548968
+    second: Portal Spritesheet by Elthen_110
+  - first:
+      213: 6398387547502040227
+    second: Portal Spritesheet by Elthen_111
+  - first:
+      213: -3690041553094118735
+    second: Portal Spritesheet by Elthen_112
+  - first:
+      213: -7016405112678594328
+    second: Portal Spritesheet by Elthen_113
+  - first:
+      213: -1108294820185478951
+    second: Portal Spritesheet by Elthen_114
+  - first:
+      213: 2026361139771217762
+    second: Portal Spritesheet by Elthen_115
+  - first:
+      213: 3814762328703465803
+    second: Portal Spritesheet by Elthen_116
+  - first:
+      213: -1390071560594269310
+    second: Portal Spritesheet by Elthen_117
+  - first:
+      213: -6440902216496009668
+    second: Portal Spritesheet by Elthen_118
+  - first:
+      213: -6880485741806300597
+    second: Portal Spritesheet by Elthen_119
+  - first:
+      213: 3354319326613366239
+    second: Portal Spritesheet by Elthen_120
+  - first:
+      213: -6772038192909163769
+    second: Portal Spritesheet by Elthen_121
+  - first:
+      213: 65687305947681319
+    second: Portal Spritesheet by Elthen_122
+  - first:
+      213: 3831797973195551042
+    second: Portal Spritesheet by Elthen_123
+  - first:
+      213: 2947289905284918740
+    second: Portal Spritesheet by Elthen_124
+  - first:
+      213: 3717825140187805707
+    second: Portal Spritesheet by Elthen_125
+  - first:
+      213: 8096732832898317054
+    second: Portal Spritesheet by Elthen_126
+  - first:
+      213: -5948069193827059102
+    second: Portal Spritesheet by Elthen_127
+  - first:
+      213: 2174279715303994068
+    second: Portal Spritesheet by Elthen_128
+  - first:
+      213: 8379710430174432191
+    second: Portal Spritesheet by Elthen_129
+  - first:
+      213: 4866676001000001928
+    second: Portal Spritesheet by Elthen_130
+  - first:
+      213: -2686109206754203188
+    second: Portal Spritesheet by Elthen_131
+  - first:
+      213: 744109976798498746
+    second: Portal Spritesheet by Elthen_132
+  - first:
+      213: 6980126496789057804
+    second: Portal Spritesheet by Elthen_133
+  - first:
+      213: -3892203629908950726
+    second: Portal Spritesheet by Elthen_134
+  - first:
+      213: -1841247244408058836
+    second: Portal Spritesheet by Elthen_135
+  - first:
+      213: 6023674478030509361
+    second: Portal Spritesheet by Elthen_136
+  - first:
+      213: 851799803712114417
+    second: Portal Spritesheet by Elthen_137
+  - first:
+      213: 4907111747465379997
+    second: Portal Spritesheet by Elthen_138
+  - first:
+      213: 4815452052831874580
+    second: Portal Spritesheet by Elthen_139
+  - first:
+      213: -1132493949383497381
+    second: Portal Spritesheet by Elthen_140
+  - first:
+      213: 841743436678521618
+    second: Portal Spritesheet by Elthen_141
+  - first:
+      213: -2079325793601534093
+    second: Portal Spritesheet by Elthen_142
+  - first:
+      213: -1453885116968039241
+    second: Portal Spritesheet by Elthen_143
+  - first:
+      213: 2112343976675753745
+    second: Portal Spritesheet by Elthen_144
+  - first:
+      213: 6272839332533689833
+    second: Portal Spritesheet by Elthen_145
+  - first:
+      213: 8276290998619667298
+    second: Portal Spritesheet by Elthen_146
+  - first:
+      213: 7293851184987346940
+    second: Portal Spritesheet by Elthen_147
+  - first:
+      213: 3512301721736282012
+    second: Portal Spritesheet by Elthen_148
+  - first:
+      213: 6556953296480432950
+    second: Portal Spritesheet by Elthen_149
+  - first:
+      213: -7143393380155831541
+    second: Portal Spritesheet by Elthen_150
+  - first:
+      213: -7228938307134360699
+    second: Portal Spritesheet by Elthen_151
+  - first:
+      213: -2784798443316203911
+    second: Portal Spritesheet by Elthen_152
+  - first:
+      213: 5844684129259649746
+    second: Portal Spritesheet by Elthen_153
+  - first:
+      213: 9087032188635800912
+    second: Portal Spritesheet by Elthen_154
+  - first:
+      213: 4355349376110342454
+    second: Portal Spritesheet by Elthen_155
+  - first:
+      213: 58903743845343477
+    second: Portal Spritesheet by Elthen_156
+  - first:
+      213: 4121893898941781760
+    second: Portal Spritesheet by Elthen_157
+  - first:
+      213: -4238292601471425537
+    second: Portal Spritesheet by Elthen_158
+  - first:
+      213: -7032956176600170220
+    second: Portal Spritesheet by Elthen_159
+  - first:
+      213: -8850461660835351194
+    second: Portal Spritesheet by Elthen_160
+  - first:
+      213: 8750448757014332109
+    second: Portal Spritesheet by Elthen_161
+  - first:
+      213: -2552791863379668601
+    second: Portal Spritesheet by Elthen_162
+  - first:
+      213: 3571104882883979227
+    second: Portal Spritesheet by Elthen_163
+  - first:
+      213: 4765033235404454688
+    second: Portal Spritesheet by Elthen_164
+  - first:
+      213: 8962235823780101449
+    second: Portal Spritesheet by Elthen_165
+  - first:
+      213: -8385293486205541909
+    second: Portal Spritesheet by Elthen_166
+  - first:
+      213: 1134513484092284515
+    second: Portal Spritesheet by Elthen_167
+  - first:
+      213: 3651474651211038784
+    second: Portal Spritesheet by Elthen_168
+  - first:
+      213: 8893779205750077052
+    second: Portal Spritesheet by Elthen_169
+  - first:
+      213: 388826626955188373
+    second: Portal Spritesheet by Elthen_170
+  - first:
+      213: -7383154416076829580
+    second: Portal Spritesheet by Elthen_171
+  - first:
+      213: 8351534441747130378
+    second: Portal Spritesheet by Elthen_172
+  - first:
+      213: -4091445927814449551
+    second: Portal Spritesheet by Elthen_173
+  - first:
+      213: 6848468765398450555
+    second: Portal Spritesheet by Elthen_174
+  - first:
+      213: 7570268690689869582
+    second: Portal Spritesheet by Elthen_175
+  - first:
+      213: 6008958737303176341
+    second: Portal Spritesheet by Elthen_176
+  - first:
+      213: 7076811051823593297
+    second: Portal Spritesheet by Elthen_177
+  - first:
+      213: -2529207427195360015
+    second: Portal Spritesheet by Elthen_178
+  - first:
+      213: 5889180226882181499
+    second: Portal Spritesheet by Elthen_179
+  - first:
+      213: 5586865469688326917
+    second: Portal Spritesheet by Elthen_180
+  - first:
+      213: -8176136308189735362
+    second: Portal Spritesheet by Elthen_181
+  - first:
+      213: 534517730671832082
+    second: Portal Spritesheet by Elthen_182
+  - first:
+      213: -261394276508598900
+    second: Portal Spritesheet by Elthen_183
+  - first:
+      213: 2421988654972449851
+    second: Portal Spritesheet by Elthen_184
+  - first:
+      213: 4572304281191222330
+    second: Portal Spritesheet by Elthen_185
+  - first:
+      213: -3519575129158791925
+    second: Portal Spritesheet by Elthen_186
+  - first:
+      213: -2025917855063905213
+    second: Portal Spritesheet by Elthen_187
+  - first:
+      213: 861530914052978420
+    second: Portal Spritesheet by Elthen_188
+  - first:
+      213: -8953570387761878203
+    second: Portal Spritesheet by Elthen_189
+  - first:
+      213: 4264345289140293553
+    second: Portal Spritesheet by Elthen_0
+  - first:
+      213: -6862519314272124024
+    second: Portal Spritesheet by Elthen_1
+  - first:
+      213: -2017594484243239220
+    second: Portal Spritesheet by Elthen_2
+  - first:
+      213: -9044713394575687156
+    second: Portal Spritesheet by Elthen_3
+  - first:
+      213: 2707534867817399012
+    second: Portal Spritesheet by Elthen_4
+  - first:
+      213: -1776309111401057527
+    second: Portal Spritesheet by Elthen_5
+  - first:
+      213: 742593318663616678
+    second: Portal Spritesheet by Elthen_6
+  - first:
+      213: 6546805207300373630
+    second: Portal Spritesheet by Elthen_7
+  - first:
+      213: 6328572488331376524
+    second: Portal Spritesheet by Elthen_8
+  - first:
+      213: -3083816801723889561
+    second: Portal Spritesheet by Elthen_9
+  - first:
+      213: 6206713888531579366
+    second: Portal Spritesheet by Elthen_10
+  - first:
+      213: -6786166626833697705
+    second: Portal Spritesheet by Elthen_11
+  - first:
+      213: 4950007997783173778
+    second: Portal Spritesheet by Elthen_12
+  - first:
+      213: -7927630112815600683
+    second: Portal Spritesheet by Elthen_13
+  - first:
+      213: 791069594284178661
+    second: Portal Spritesheet by Elthen_14
+  - first:
+      213: -3330773374150676695
+    second: Portal Spritesheet by Elthen_15
+  - first:
+      213: 6390079200009885140
+    second: Portal Spritesheet by Elthen_16
+  - first:
+      213: 2472501538092243639
+    second: Portal Spritesheet by Elthen_17
+  - first:
+      213: -5152148487294277254
+    second: Portal Spritesheet by Elthen_18
+  - first:
+      213: 1942732304017181164
+    second: Portal Spritesheet by Elthen_19
+  - first:
+      213: -6478305081473063608
+    second: Portal Spritesheet by Elthen_20
+  - first:
+      213: -7199452130364425253
+    second: Portal Spritesheet by Elthen_21
+  - first:
+      213: -3440401256436745349
+    second: Portal Spritesheet by Elthen_22
+  - first:
+      213: 8827129586600969304
+    second: Portal Spritesheet by Elthen_23
+  - first:
+      213: 79655920375379229
+    second: Portal Spritesheet by Elthen_24
+  - first:
+      213: -2396817514964366265
+    second: Portal Spritesheet by Elthen_25
+  - first:
+      213: 5684184626152569017
+    second: Portal Spritesheet by Elthen_26
+  - first:
+      213: 159372962231154817
+    second: Portal Spritesheet by Elthen_27
+  - first:
+      213: 6978824469620117292
+    second: Portal Spritesheet by Elthen_28
+  - first:
+      213: 3279842881141975225
+    second: Portal Spritesheet by Elthen_29
+  - first:
+      213: 5724283447047916963
+    second: Portal Spritesheet by Elthen_30
+  - first:
+      213: 7297099498539830038
+    second: Portal Spritesheet by Elthen_31
+  - first:
+      213: 6313983392255983786
+    second: Portal Spritesheet by Elthen_32
+  - first:
+      213: -6279621501010925349
+    second: Portal Spritesheet by Elthen_33
+  - first:
+      213: 7998476142923122258
+    second: Portal Spritesheet by Elthen_34
+  - first:
+      213: 7936312165466511207
+    second: Portal Spritesheet by Elthen_35
+  - first:
+      213: 918834789046966757
+    second: Portal Spritesheet by Elthen_36
+  - first:
+      213: 158365114808246442
+    second: Portal Spritesheet by Elthen_37
+  - first:
+      213: 8277794043390651389
+    second: Portal Spritesheet by Elthen_38
+  - first:
+      213: -3595795576891041444
+    second: Portal Spritesheet by Elthen_39
+  - first:
+      213: -3476029585391877911
+    second: Portal Spritesheet by Elthen_40
+  - first:
+      213: 2537906208747816788
+    second: Portal Spritesheet by Elthen_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1788
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf41de627ffd2b30800000000000000
+      internalID: 4264345289140293553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1788
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8838d88fa0f63c0a0800000000000000
+      internalID: -6862519314272124024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1788
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccee4e991801004e0800000000000000
+      internalID: -2017594484243239220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_3
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1788
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02491da619ba7280800000000000000
+      internalID: -9044713394575687156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_4
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1788
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e28d3dfd98139520800000000000000
+      internalID: 2707534867817399012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_5
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1788
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90376a346484957e0800000000000000
+      internalID: -1776309111401057527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_6
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1788
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8f58b50b83e4a00800000000000000
+      internalID: 742593318663616678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_7
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1788
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cf0da46aceada50800000000000000
+      internalID: 6546805207300373630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_8
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1788
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c873d4ed52b93d750800000000000000
+      internalID: 6328572488331376524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_9
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1788
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768cdd425f41435d0800000000000000
+      internalID: -3083816801723889561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1528
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e18864a56da22650800000000000000
+      internalID: 6206713888531579366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_11
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1528
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75477f45861b2d1a0800000000000000
+      internalID: -6786166626833697705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_12
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1528
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a65373c06f1b440800000000000000
+      internalID: 4950007997783173778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_13
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1528
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbafee2a666bf190800000000000000
+      internalID: -7927630112815600683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_14
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1528
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecbbefca917afa00800000000000000
+      internalID: 791069594284178661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1268
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f6b6e6347b6c1d0800000000000000
+      internalID: -3330773374150676695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1268
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d593332d2f1ea850800000000000000
+      internalID: 6390079200009885140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1268
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba589c8c07105220800000000000000
+      internalID: 2472501538092243639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_18
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1268
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7922c08f34ef78b0800000000000000
+      internalID: -5152148487294277254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_19
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1268
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9ce9accb8f5fa10800000000000000
+      internalID: 1942732304017181164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_20
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1268
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845a0381adf6816a0800000000000000
+      internalID: -6478305081473063608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbf2388e68661c90800000000000000
+      internalID: -7199452130364425253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_22
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1008
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bb749094d3140d0800000000000000
+      internalID: -3440401256436745349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_23
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1008
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85401b34793408a70800000000000000
+      internalID: 8827129586600969304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_24
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1008
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d153b3633aefa1100800000000000000
+      internalID: 79655920375379229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_25
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1008
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c4d154b2bccbed0800000000000000
+      internalID: -2396817514964366265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b87f872dc742ee40800000000000000
+      internalID: 5684184626152569017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_27
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 748
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188f6906dd4363200800000000000000
+      internalID: 159372962231154817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_28
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 748
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fc28531e3c9d060800000000000000
+      internalID: 6978824469620117292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_29
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 748
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8af8919b7548d20800000000000000
+      internalID: 3279842881141975225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_30
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 748
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad80fe677db07f40800000000000000
+      internalID: 5724283447047916963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bc52d0551844560800000000000000
+      internalID: 7297099498539830038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_32
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 488
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0422d3176cf9750800000000000000
+      internalID: 6313983392255983786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_33
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 488
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8a654048d4ad8a0800000000000000
+      internalID: -6279621501010925349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_34
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 488
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2568e5b9cab400f60800000000000000
+      internalID: 7998476142923122258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_35
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 488
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7671e39bdd1732e60800000000000000
+      internalID: 7936312165466511207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Spritesheet by Elthen_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e95a685f5b50cc00800000000000000
+      internalID: 918834789046966757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
