@@ -1,16 +1,13 @@
 ﻿/*
     Name: Nicholas Santos
-    Date: 10/20/2020
+    Date: 11/6/2020
     Desc: Movement
 */
-
 
 using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
-
-
 
 public class EnemyTracking : MonoBehaviour
 {
