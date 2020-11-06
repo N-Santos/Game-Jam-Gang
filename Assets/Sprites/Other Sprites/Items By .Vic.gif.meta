@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: 1414adccaa50fb648837e2f4871eaa0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6377548946662387157
+    second: Items By .Vic_0
+  - first:
+      213: -5018931042817619888
+    second: Items By .Vic_1
+  - first:
+      213: 6476049049050064186
+    second: Items By .Vic_2
+  - first:
+      213: -871097452350743914
+    second: Items By .Vic_3
+  - first:
+      213: 4447185142604561080
+    second: Items By .Vic_4
+  - first:
+      213: 3462652810734711419
+    second: Items By .Vic_5
+  - first:
+      213: 1966025835705442137
+    second: Items By .Vic_6
+  - first:
+      213: 5331513169556640701
+    second: Items By .Vic_7
+  - first:
+      213: -516249103086087711
+    second: Items By .Vic_8
+  - first:
+      213: -8065828104122235595
+    second: Items By .Vic_9
+  - first:
+      213: 482242170183752528
+    second: Items By .Vic_10
+  - first:
+      213: 4302566019109832633
+    second: Items By .Vic_11
+  - first:
+      213: -4016361707733727004
+    second: Items By .Vic_12
+  - first:
+      213: 3860807417084478379
+    second: Items By .Vic_13
+  - first:
+      213: -2704115674515590493
+    second: Items By .Vic_14
+  - first:
+      213: -917864211736886396
+    second: Items By .Vic_15
+  - first:
+      213: 2768673348497380443
+    second: Items By .Vic_16
+  - first:
+      213: 2898455786687445764
+    second: Items By .Vic_17
+  - first:
+      213: -7606481536367414988
+    second: Items By .Vic_18
+  - first:
+      213: 3679791519349516450
+    second: Items By .Vic_19
+  - first:
+      213: 26065456609476824
+    second: Items By .Vic_20
+  - first:
+      213: -8096061504183977700
+    second: Items By .Vic_21
+  - first:
+      213: 8826119264571228427
+    second: Items By .Vic_22
+  - first:
+      213: -6825202788917335584
+    second: Items By .Vic_23
+  - first:
+      213: 3214509648648654707
+    second: Items By .Vic_24
+  - first:
+      213: 9102084947235650848
+    second: Items By .Vic_25
+  - first:
+      213: -5299565431493134684
+    second: Items By .Vic_26
+  - first:
+      213: -3323533325317639179
+    second: Items By .Vic_27
+  - first:
+      213: 5489565584146003320
+    second: Items By .Vic_28
+  - first:
+      213: 1838857866694614982
+    second: Items By .Vic_29
+  - first:
+      213: 2987501970969011697
+    second: Items By .Vic_30
+  - first:
+      213: 2552038515047152396
+    second: Items By .Vic_31
+  - first:
+      213: 7702271567597527918
+    second: Items By .Vic_32
+  - first:
+      213: 2855531311597784204
+    second: Items By .Vic_33
+  - first:
+      213: 7651394246137697928
+    second: Items By .Vic_34
+  - first:
+      213: -161699722861479475
+    second: Items By .Vic_35
+  - first:
+      213: -2950924765569868287
+    second: Items By .Vic_36
+  - first:
+      213: 7776021994947714514
+    second: Items By .Vic_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Items By .Vic_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd6a7f2afa918850800000000000000
+      internalID: 6377548946662387157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058cca8decc295ab0800000000000000
+      internalID: -5018931042817619888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 68
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a2ac6c4c8fd950800000000000000
+      internalID: 6476049049050064186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 68
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ad2eb7b7d39e3f0800000000000000
+      internalID: -871097452350743914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 68
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baf653335397bd30800000000000000
+      internalID: 4447185142604561080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72b95ca260dd0030800000000000000
+      internalID: 3462652810734711419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f9674c41ab84b10800000000000000
+      internalID: 1966025835705442137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db39dbaeaf65df940800000000000000
+      internalID: 5331513169556640701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e190fa0d2ae5d8f0800000000000000
+      internalID: -516249103086087711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5358e6ae21c601090800000000000000
+      internalID: -8065828104122235595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b1481e2b441b600800000000000000
+      internalID: 482242170183752528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b745b79ff8c5bb30800000000000000
+      internalID: 4302566019109832633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8cc017e440348c0800000000000000
+      internalID: -4016361707733727004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba38381f3e7549530800000000000000
+      internalID: 3860807417084478379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2beecfe1d097ad0800000000000000
+      internalID: -2704115674515590493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483016bcc571343f0800000000000000
+      internalID: -917864211736886396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 48
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54174ccdbd4c6620800000000000000
+      internalID: 2768673348497380443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 48
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b3eaa6e22693820800000000000000
+      internalID: 2898455786687445764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 48
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431b042f759507690800000000000000
+      internalID: -7606481536367414988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8a256f3ee311330800000000000000
+      internalID: 3679791519349516450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0cd1a056a9c5000800000000000000
+      internalID: 26065456609476824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19366be4f205af80800000000000000
+      internalID: -8096061504183977700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01000655bcac7a70800000000000000
+      internalID: 8826119264571228427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9a39699320841a0800000000000000
+      internalID: -6825202788917335584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 31
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fc4c68e7b3c9c20800000000000000
+      internalID: 3214509648648654707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d396bd80a115e70800000000000000
+      internalID: 9102084947235650848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 16
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a679ef71592476b0800000000000000
+      internalID: -5299565431493134684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3f449ac0070e1d0800000000000000
+      internalID: -3323533325317639179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8757b3650dade2c40800000000000000
+      internalID: 5489565584146003320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 16
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfd3c0bc7fe48910800000000000000
+      internalID: 1838857866694614982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f52361d63db57920800000000000000
+      internalID: 2987501970969011697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 16
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b30861289aa6320800000000000000
+      internalID: 2552038515047152396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 16
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63ed3eae27f3ea60800000000000000
+      internalID: 7702271567597527918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c8ac04992e0a720800000000000000
+      internalID: 2855531311597784204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886518d27863f2a60800000000000000
+      internalID: 7651394246137697928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_35
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9ff8275f681cdf0800000000000000
+      internalID: -161699722861479475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e1e457f853c07d0800000000000000
+      internalID: -2950924765569868287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items By .Vic_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd9b762ecaf9eb60800000000000000
+      internalID: 7776021994947714514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
